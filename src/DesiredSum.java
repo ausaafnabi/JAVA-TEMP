@@ -1,6 +1,10 @@
 import java.util.Scanner;
 public class DesiredSum {
-
+	/**	<h2>To find the sum of any no of integers using CommandLine </h2>
+	 * <p></p>
+	 * @param noa
+	 * 	@author Ausaaf Nabi 
+	 * @return sum */
 	static int DesiredSum1(int noa) {
 		int sum = 0 ;
 		Scanner sc = new Scanner(System.in);

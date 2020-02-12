@@ -103,7 +103,6 @@ public class Hello {
 		System.out.println("######### FACTORIAL ############ ");
 		System.out.println("enter the value to find its factorial:: ");
 		d = sc.nextInt();	// @params d {type:description :: use to store value 3}
-		
 		System.out.println("The factorial of the number :: " + Factorial(d));
 		
 		//##################################################################################

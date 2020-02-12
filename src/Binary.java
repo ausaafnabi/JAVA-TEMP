@@ -2,10 +2,10 @@ import java.util.Scanner;
 public class Binary {
 
 	/**	@author Ausaaf Nabi
-	 * @params To find the sum of any no of integers 
+	 * @param To find the sum of any no of integers 
 	 * 	 
-	 * @params To find the factorial of given number 
-	 * @params to convert a decimal number to a binary number
+	 * @param To find the factorial of given number 
+	 * @param to convert a decimal number to a binary number
 	 * @see SumOfTwo();
 	 * 		factorial()
 	 * @return a+b */
