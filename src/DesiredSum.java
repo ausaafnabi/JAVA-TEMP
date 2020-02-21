@@ -9,8 +9,8 @@ public class DesiredSum {
 		int sum = 0 ;
 		Scanner sc = new Scanner(System.in);
 		if(noa ==-1) {
-			System.out.println("NO command line Arguments Provided!");
-			System.out.println("Provide Command Line Arguments from Run Configurations/Arguments!");
+			System.err.println("NO command line Arguments Provided!");
+			System.err.println("Provide Command Line Arguments from Run Configurations/Arguments!");
 		}
 		else {
 			int m=0;

@@ -22,6 +22,8 @@ public class Q12 {
 		System.out.println("Before Swap:: "+t1.Mod()+" , "+t1.y);
 		swap(t1,t2);
 		System.out.println("After Swap:: "+t1.Mod()+" , "+t1.y);
+		//call by reference
+		
 		
 	}
 	
